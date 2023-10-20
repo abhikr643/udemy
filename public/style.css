@@ -1,0 +1,191 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.logo{
+    height: 2rem;
+}
+
+.searchbar{
+    width: 25rem;
+    
+}
+
+.searchbar input{
+    border-radius: 50px;
+    height: 2.6rem;
+}
+
+.icons{
+    height: 1.7rem;
+    margin: 0.6rem;
+}
+
+.world-icon{
+    margin-left:0.5rem;
+    border: 1px black solid;
+    padding: 6px;
+    height: 2.5rem;
+}
+
+.Header1{
+    background-color: rgb(45,47,49);
+    height: 19rem;
+}
+
+.Header1 h6{
+    color: rgb(126,129,160);
+    padding: 1rem;
+    padding-left: 8rem;
+    font-weight: bolder;
+}
+
+.Header1 h6 span{
+    color: rgb(255, 255, 255);
+}
+
+.heading-top{
+    color: rgb(255, 255, 255);
+    padding-left: 8rem;
+    font-weight: bolder;
+}
+
+.header-div p{
+    
+    padding-left: 8rem;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-bottom: 1rem;
+
+}
+
+.rating{
+    color:rgb(246,156,8);
+}
+
+.bestseller{
+    font-size: small;
+    background-color: rgb(236,235,152);
+    color: black;
+}
+
+.raters{
+    font-size: small;
+    color: rgb(171,174,223);
+}
+
+.raters-outoff{
+    font-size: small;
+}
+
+.flex-head{
+    display: flex;
+    gap: 2rem;
+}
+
+.img-head{
+    height: 11rem;
+    width: 22rem;
+    margin-right: 1rem;
+}
+
+.flex-bottom-img{
+    display: flex;
+    gap: 3.5rem;
+    background-color: rgb(255, 255, 255);
+    margin-right: 1rem;
+    font-size: xx-large;
+    padding: 0.7rem;
+    text-decoration: underline;
+}
+
+.learn{
+    border: solid 1px black;
+    width: 60%;
+    height: 15rem;
+    margin: 2rem;
+    margin-left: 5rem;
+}
+
+.learn-heading{
+    margin: 1rem;
+    font-weight: bold;
+}
+
+.flex-learn{
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+    font-size:0.9rem;
+}
+
+.learn-sidebar{
+    height: 45rem;
+    width: 28%;
+    position: relative;
+    top: 0rem;
+    right: 0rem;
+    padding: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.flex-learning{
+    display: flex;
+    gap: 1.5rem;
+}
+
+.learn-sidebar h3{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.learn-sidebar button{
+    background-color: rgb(135,16,216);
+    height: 3rem;
+    margin-left: 6%;
+    text-align: center;
+    width: 90%;
+    font-size: x-large;
+    color: aliceblue;
+    margin: 1rem;
+    border-radius: 10px;
+
+}
+
+.below-button{
+    text-align: center;
+    font-size: small;
+    color: grey;
+    line-height: 1.5rem;
+}
+
+.strike-price{
+    text-decoration:line-through;
+    margin: 0.3rem;
+    color: grey;
+}
+
+.sidebar-link{
+    display: flex;
+   justify-content: space-evenly;
+}
+
+.sidebar-link a{
+    color: black;
+    font-weight: bold;
+}
+
+.companies{
+    border: 1px black solid;
+    height: 10rem;
+    margin-top: 1rem;
+}
+
+.company-logo{
+    height: 4rem;
+}
